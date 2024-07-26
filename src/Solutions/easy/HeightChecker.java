@@ -1,4 +1,4 @@
-package Solutions;
+package Solutions.easy;
 
 public class HeightChecker {
 

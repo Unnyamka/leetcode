@@ -1,4 +1,4 @@
-package Solutions;
+package Solutions.medium;
 
 public class RotateArray {
     /*

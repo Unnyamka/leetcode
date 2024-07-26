@@ -1,4 +1,4 @@
-package Solutions;
+package Solutions.easy;
 
 import java.util.Arrays;
 import java.util.Comparator;
